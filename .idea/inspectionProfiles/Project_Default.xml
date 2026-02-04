@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="torch" />
+          <option value="torchaudio" />
+          <option value="transformers" />
+          <option value="datasets" />
+          <option value="accelerate" />
+          <option value="peft" />
+          <option value="librosa" />
+          <option value="soundfile" />
+          <option value="jiwer" />
+          <option value="evaluate" />
+          <option value="pandas" />
+          <option value="numpy" />
+          <option value="PyYAML" />
+          <option value="tqdm" />
+          <option value="tensorboard" />
+          <option value="wandb" />
+          <option value="huggingface-hub" />
+          <option value="omegaconf" />
+          <option value="reportlab" />
+          <option value="matplotlib" />
+          <option value="seaborn" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
