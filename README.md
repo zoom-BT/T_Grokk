@@ -1,6 +1,5 @@
 # 🔬 Grokking with Dynamic Label Corruption (τ)
 
-[![Paper](https://img.shields.io/badge/Paper-ICLR%202025-blue)](.)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF)](https://www.kaggle.com/code/balbinotchoutzine/t-grokk)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
